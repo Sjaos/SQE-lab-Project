@@ -1,0 +1,5 @@
+Django==3.1
+requests==2.19.1
+urllib3==1.24.1
+Jinja2==2.10
+PyYAML==5.1
