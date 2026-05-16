@@ -1,0 +1,6 @@
+projectKey=SQE-LAB-Project
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=SQE-LAB-Project
+ceTaskId=df236657-ae10-4cc7-9fed-62258ad77f20
+ceTaskUrl=http://localhost:9000/api/ce/task?id=df236657-ae10-4cc7-9fed-62258ad77f20
